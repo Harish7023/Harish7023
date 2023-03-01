@@ -1,7 +1,6 @@
 - 👋 Hi, I’m HARISH CHANDRA BARSARA from Jaipur Rajasthan. 
 - 👀 I’m interested in web development,app development 
 - 🌱 I’m currently learning in NIT arunachal pradesh.
-- 💞️ I’m looking to collaborate on ...
 - 📫 my WhatsApp number is 7023748367.you can contact me through this.
 
 <!---
